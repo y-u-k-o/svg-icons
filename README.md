@@ -14,7 +14,7 @@
 
 -----------------------
 
-#### 1. [The viewBox attribute](https://developer.mozilla.org/ru/docs/Web/SVG/Attribute/viewBox)
+#### 1. [The viewBox attribute](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/viewBox)
 
 Example: ```viewBox="0 0 80 30"``` (min-x, min-y, width, height)
 
